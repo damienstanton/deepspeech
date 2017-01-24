@@ -3,6 +3,7 @@
 [![](https://storage.googleapis.com/personal-notes/baidutalk.png)](https://youtu.be/g-sndkf7mCs)
 
 talk by Adam Coates, Baidu
+
 Deep Learning School Lecture Series, 2016
 
 #### Tested Environments
